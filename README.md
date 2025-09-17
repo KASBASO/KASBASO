@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KASBASO
-- 👀 I’m interested in WE DESIGNING
+- 👀 I’m interested in WEB DESIGNING
 - 🌱 I’m currently learning LARAVEL
 - 💞️ I’m looking to collaborate on CODING
 
